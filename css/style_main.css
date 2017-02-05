@@ -1,0 +1,18 @@
+  strong {font-weight: bold;}
+  ul {margin: 1em 0; padding: 0 0 0 20px;}
+  img {border: 0;max-width: 100%;}
+     
+  footer {max-width: 45em;margin: 0 auto;}
+  
+  .content {padding: 1em 1em;}
+  .content li {list-style-type: none;font-size: 1.1em;}
+  li img {float: left;padding-right: 1em;}
+  li p {font-size: 0.9em;font-style: italic;}
+  footer {padding: 0 0.5em;border-top: 1px solid #ccc;}
+  footer span {float: right;font-style: italic;}
+      
+  @media only screen and (max-width: 480px) {
+  body {font-size: 12px;}
+  header p {padding-left: 4.5em;}
+  }
+      
